@@ -1,0 +1,1 @@
+computeMatrix reference-point -S WT-IP.ratio.100-500.bw RNAi-IP.ratio.100-500.bw -R  Pbursaria_annotation_gene_1kb.bed  -a 1000 -b 1000 -bs 10 --outFileNameMatrix computeMatrix.100-500-rp.txt --outFileSortedRegions Heatmap1sortedRegions.100-500-rp.bed  --outFileName computeMatrix.mat.100-500-rp.gz --missingDataAsZero -p 16
